@@ -1,0 +1,14 @@
+{
+    "name": "cygnus/doctrine-form-generator",
+    "description": "Provides a service to dynamically generate forms from doctrine models",
+    "require": {
+        "doctrine/common": "~2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Josh Worden",
+            "email": "josh.worden@cygnus.com"
+        }
+    ]
+}
